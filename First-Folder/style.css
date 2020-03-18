@@ -1,9 +1,9 @@
 img{
-    width: 200px;
+    width: 150px;
 }
 .logo{
-    height: 200px;
+    height: 100px;
 }
 #firstimg{
-    border: red solid 5px;
+    border: orangered solid 5px;
 }
